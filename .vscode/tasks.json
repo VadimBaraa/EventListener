@@ -1,0 +1,30 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Run EventGenerator",
+        "command": "dotnet",
+        "type": "process",
+        "args": [
+          "run",
+          "--project",
+          "EventGenerator/EventGenerator.csproj"
+        ],
+        "problemMatcher": "$msCompile",
+        "group": "build"
+      },
+      {
+        "label": "Run EventProcessor",
+        "command": "dotnet",
+        "type": "process",
+        "args": [
+          "run",
+          "--project",
+          "EventProcessor/EventProcessor.csproj"
+        ],
+        "problemMatcher": "$msCompile",
+        "group": "build"
+      }
+    ]
+  }
+  

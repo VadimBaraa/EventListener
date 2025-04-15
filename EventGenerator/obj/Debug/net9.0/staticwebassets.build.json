@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SbcHohZA/L2tCBDhnYllM5VHHicNPW6rLgxqHYAUY6g=",
+  "Source": "EventGenerator",
+  "BasePath": "_content/EventGenerator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

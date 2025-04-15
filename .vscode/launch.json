@@ -1,0 +1,34 @@
+{
+    "version": "0.2.0",
+    "compounds": [
+      {
+        "name": "Start Both APIs",
+        "configurations": ["Launch EventGenerator", "Launch EventProcessor"]
+      }
+    ],
+    "configurations": [
+      {
+        "name": "Launch EventGenerator",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "Run EventGenerator",
+        "program": "${workspaceFolder}/EventGenerator/bin/Debug/net6.0/EventGenerator.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}/EventGenerator",
+        "stopAtEntry": false,
+        "console": "internalConsole"
+      },
+      {
+        "name": "Launch EventProcessor",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "Run EventProcessor",
+        "program": "${workspaceFolder}/EventProcessor/bin/Debug/net6.0/EventProcessor.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}/EventProcessor",
+        "stopAtEntry": false,
+        "console": "internalConsole"
+      }
+    ]
+  }
+  

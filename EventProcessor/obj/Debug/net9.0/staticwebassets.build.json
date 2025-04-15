@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "z56sS5YilEKTCjHRaDgqkPc3MX/o7ZVVqLzcnuoOyPY=",
+  "Source": "EventProcessor",
+  "BasePath": "_content/EventProcessor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

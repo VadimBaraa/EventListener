@@ -1,0 +1,11 @@
+C:\Users\Вадим\Desktop\Stajirovka\Itentika\EventShared\bin\Debug\net9.0\EventShared.deps.json
+C:\Users\Вадим\Desktop\Stajirovka\Itentika\EventShared\bin\Debug\net9.0\EventShared.dll
+C:\Users\Вадим\Desktop\Stajirovka\Itentika\EventShared\bin\Debug\net9.0\EventShared.pdb
+C:\Users\Вадим\Desktop\Stajirovka\Itentika\EventShared\obj\Debug\net9.0\EventShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\Stajirovka\Itentika\EventShared\obj\Debug\net9.0\EventShared.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\Stajirovka\Itentika\EventShared\obj\Debug\net9.0\EventShared.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\Stajirovka\Itentika\EventShared\obj\Debug\net9.0\EventShared.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Stajirovka\Itentika\EventShared\obj\Debug\net9.0\EventShared.dll
+C:\Users\Вадим\Desktop\Stajirovka\Itentika\EventShared\obj\Debug\net9.0\refint\EventShared.dll
+C:\Users\Вадим\Desktop\Stajirovka\Itentika\EventShared\obj\Debug\net9.0\EventShared.pdb
+C:\Users\Вадим\Desktop\Stajirovka\Itentika\EventShared\obj\Debug\net9.0\ref\EventShared.dll
